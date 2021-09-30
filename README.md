@@ -8,3 +8,4 @@
 
 
 
+![Cities](https://github.com/HarTigran/Project-6-Small-Data-Engineering-NLP-and-AI-APIs-with-No-Code-Low-Code-/blob/main/Pics/Cities.png)
