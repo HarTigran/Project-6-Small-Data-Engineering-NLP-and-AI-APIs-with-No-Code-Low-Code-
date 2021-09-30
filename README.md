@@ -7,4 +7,4 @@
 - Example Repo: https://github.com/noahgift/exploratory-data-analysis
 
 
-![Cities](C:\Users\harut\OneDrive\Documents\00_IDS_706_DataEeng\project6\City.png)
+![Alt Text](C:\Users\harut\OneDrive\Documents\00_IDS_706_DataEeng\project6\City.png, "City")
