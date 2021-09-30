@@ -5,3 +5,6 @@
 - Create one-page in report, in Github using Markdown summarizing the point of the data visualization (give firm recommendation/conclusion)
 - Example Walkthrough Video: https://learning.oreilly.com/videos/no-code-and/62202021VIDEOPAIML/
 - Example Repo: https://github.com/noahgift/exploratory-data-analysis
+
+
+![Cities](C:\Users\harut\OneDrive\Documents\00_IDS_706_DataEeng\project6\City.png)
